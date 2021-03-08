@@ -1,7 +1,7 @@
 # Hey, I'm Alexis Badel aka dotCore 👋
 
 ## About me ~
-- I'm a __French student of 18 years old__ 👨‍🎓
+- I'm a __French student of 19 years old__ 👨‍🎓
 - Currently in __Jean Monnet's University of Roanne__ _(2nd year of Technology Degree)_ ⚙️
 - Getting prepared for a __Degree in Computer Science__ _(2021-2022)_ 🎓
 - I'm naturally __curious__, __rigorous__ and __ambitious__ in relation to my projects 👤
