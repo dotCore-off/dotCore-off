@@ -9,7 +9,7 @@
 
 ## My current "skills" ~
 - __Languages__ ❱ HTML / CSS / SCSS / JavaScript / PHP / Lua / C / C++
-- __Frameworks__ ❱ Symfony / ReactJS / Laravel
+- __Frameworks__ ❱ Symfony / ReactJS / Laravel / Tailwind / Gatsby
 - __CMS__ ❱ XenForo / Invision PowerBoard / WordPress / WHMCS
 
 ## What's planned ~
