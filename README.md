@@ -20,7 +20,7 @@
 - [Brilliant Lab](#) **(CEO and Software Engineer - 2021 / Now)**
 > **Description:** Unregistered company yet which focus is on bringing innovations to the tech world
 - [BUT Project](http://nureg.fr/#/) **(Full-stack Developer - 2021)**
-> **Description:** our main project to validate our Computer Science degree, made with three other friends
+> **Description:** our main project to validate our Computer Science degree, made with three other friends  
 > **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
 
 ## The flex zone (my current skills)
