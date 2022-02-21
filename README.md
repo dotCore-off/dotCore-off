@@ -1,6 +1,6 @@
 # Hey, my name's Alexis Badel aka dotCore 👋
 > ![My incredible useless Github stats](https://github-readme-stats.vercel.app/api?username=dotCore-off&count_private=true&theme=tokyonight)  
->          Contact details are available at the bottom of this README 👇
+> Contact details are available at the bottom of this README 👇
 
 ## About me 
 - I'm a **French student of 19 years old** 👨‍🎓
@@ -11,9 +11,9 @@
 ## The flex zone (my current skills)
 ### [Domains]
 - **Web Development** (⭐️⭐️⭐️)
-> HTML / CSS / JavaScript / TypeScript / SCSS
+> HTML / CSS / JavaScript / TypeScript / SCSS / LESS
 - **Software Development** (⭐️⭐️)
-> C++ / C# / Python / Lua
+> C++ / C# / Python / Lua / Laux
 ### [Frameworks]
 - **Laravel** (⭐️⭐️⭐️) 
 - **Styling frameworks** (⭐️⭐️⭐️) 
@@ -21,11 +21,23 @@
 - **NodeJS frameworks** (⭐️⭐️) 
 > AngularJS / ReactJS / VueJS / PrismaJS
 - **Symfony** (⭐) 
+### [Content Management Systems]
+- **XenForo** (⭐️⭐️⭐️)
+> Deployment, advanced configuration, plugin development and LESS styling
+- **Invision PowerBoard** (⭐️⭐️⭐️)
+> Deployment, advanced configuration and basic plugin development
+- **WordPress** (⭐️⭐️)
+> Deployment, configuration and enhanced styling
+- **WHMCS** (⭐️)
+> Deployment and configuration
+### [Various Game Development Tools]
+- **Unreal Engine 4** (⭐️⭐️)
+- **Hammer / Hammer++** (⭐️⭐️)
+- **Cocos2d** (⭐️⭐️) 
+- **Gamebryo** (⭐️) 
+- **Unity** (⭐️)
 
-- **[Content Management Systems]** ❱ **XenForo** *(⭐️⭐️⭐️)* - **Invision PowerBoard** *(⭐️⭐️⭐️)* - **WordPress** *(⭐️⭐️)* - **WHMCS** *(⭐️)*
-- **[Game Engines]** ❱ **Unreal Engine 4** *(⭐️⭐️⭐️)* - **Cocos2d** *(⭐️⭐️)* - **Gamebryo** *(⭐️)* - **Unity** *(⭐️)*
-
-_⭐️⭐️⭐️: Almost mastered / ⭐️⭐️: Well known / ⭐️: Bases_
+_⭐️⭐️⭐️: Breaking keyboards at the speed of light / ⭐️⭐️: Not sweating when typing code / ⭐️: Watched a random Youtube tutorial_
 
 ## Want to stalk me ?
 - __My Mails__ ❱ contact@dotcore-lab.net / private@dotcore-lab.net 📧 _(both works)_
