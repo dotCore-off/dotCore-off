@@ -38,8 +38,14 @@
 > **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features  
 > **Tech used:** DiscordJS, Prisma, PostgreSQL
 - [🔥 gMMO](https://github.com/Waurum-Studio/gmmo) **(Developer - Beta in Summer 2022)**
-> **Description:** forked from [Brick's Botched RPG](https://github.com/louiefox/botched-rpg), it'll be the first ever and complete MMO styled gamemode on [Garry's mod](https://gmod.facepunch.com/)
+> **Description:** forked from [Brick's Botched RPG](https://github.com/louiefox/botched-rpg), it'll be the first ever and complete MMO styled gamemode on [Garry's mod](https://gmod.facepunch.com/)  
 > **Tech used:** Lua, MySQL
+- [🌊 Project F](#) **(Developer & Game Concepter - No ETA)**
+> **Description:** a gacha themed mobile game that features unique mechanics & grind system  
+> **Tech used:** C#, Unity, Python, SQL
+- [⚓️ Florensia Rebirth](#) **(Project Leader - No ETA)**
+> **Description:** an attempt at creating a new game inspired by the old MMO [Florensia](https://www.florensia-online.com/) developed by AHA  
+> **Tech used:** C#, Gamebryo Engine, Python
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
