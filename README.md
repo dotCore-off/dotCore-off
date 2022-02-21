@@ -8,10 +8,10 @@
 - French is my native language but I can easily understand and handle a fluent conversation in English too 💬
 
 ## The flex zone (my current skills)
-- __Domains__ ❱ Web Development (⭐️⭐️⭐️ -> HTML / CSS / JS / TS / SCSS) / Software Development (⭐️⭐️ -> C++ / C# / Python / Lua)
-- __Web Frameworks__ ❱ Symfony (⭐️⭐️⭐️) / ReactJS (⭐️⭐️⭐️) / Laravel (⭐️⭐️⭐️) / Bootstrap (⭐️⭐️⭐️) / Tailwind (⭐️⭐️) / Gatsby (⭐️)
-- __CMS__ ❱ XenForo (⭐️⭐️⭐️) / Invision PowerBoard (⭐️⭐️⭐️) / WordPress (⭐️⭐️) / WHMCS (⭐️)
-- __Game Engines__ ❱ Unreal Engine 4 (⭐️⭐️⭐️) / Cocos2d (⭐️⭐️) / Gamebryo (⭐️) / Unity (⭐️)
+- __[Domains]__ ❱ Web Development (⭐️⭐️⭐️ -> HTML / CSS / JS / TS / SCSS) / Software Development (⭐️⭐️ -> C++ / C# / Python / Lua)
+- __[Web Frameworks]__ ❱ Symfony (⭐️⭐️⭐️) / ReactJS (⭐️⭐️⭐️) / Laravel (⭐️⭐️⭐️) / Bootstrap (⭐️⭐️⭐️) / Tailwind (⭐️⭐️) / Gatsby (⭐️)
+- __[CMS]__ ❱ XenForo (⭐️⭐️⭐️) / Invision PowerBoard (⭐️⭐️⭐️) / WordPress (⭐️⭐️) / WHMCS (⭐️)
+- __[Game Engines]__ ❱ Unreal Engine 4 (⭐️⭐️⭐️) / Cocos2d (⭐️⭐️) / Gamebryo (⭐️) / Unity (⭐️)
 
 _⭐️⭐️⭐️: Almost mastered / ⭐️⭐️: Well known / ⭐️: Bases_
 
