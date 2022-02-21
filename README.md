@@ -1,4 +1,4 @@
-# Hey, my name's Alexis Badel aka dotCore 👋
+# Hey, my name's Alexis 'dotCore' Badel, welcome !👋
 > ![My incredible useless Github stats](https://github-readme-stats.vercel.app/api?username=dotCore-off&count_private=true&theme=tokyonight)  
 
 ## Skip table
