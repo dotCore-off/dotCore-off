@@ -3,11 +3,11 @@
 
 ## About me 
 - I'm a __French student of 19 years old__ 👨‍🎓
-- I have a __3rd Year Degree in Computer Science__ _(2019-2022)_ 🎓
+- I have a __3rd Year Degree in Computer Science__ _(2019-2022)_ and a **Science Bachelor** _(2016-2019)_ 🎓
 - I'm naturally __curious__, __rigorous__ and __ambitious__ in relation to my projects 👤
 - French is my native language but I can easily understand and handle a fluent conversation in English too 💬
 
-## My current "skills" 
+## The flex zone (my current skills)
 - __Domains__ ❱ Web Development (⭐️⭐️⭐️ -> HTML / CSS / JS / TS / SCSS) / Software Development (⭐️⭐️ -> C++ / C# / Python / Lua)
 - __Web Frameworks__ ❱ Symfony (⭐️⭐️⭐️) / ReactJS (⭐️⭐️⭐️) / Laravel (⭐️⭐️⭐️) / Bootstrap (⭐️⭐️⭐️) / Tailwind (⭐️⭐️) / Gatsby (⭐️)
 - __CMS__ ❱ XenForo (⭐️⭐️⭐️) / Invision PowerBoard (⭐️⭐️⭐️) / WordPress (⭐️⭐️) / WHMCS (⭐️)
@@ -15,7 +15,7 @@
 
 _⭐️⭐️⭐️: Almost mastered / ⭐️⭐️: Well known / ⭐️: Bases_
 
-## Where am I 
+## Want to stalk me ?
 - __My Mails__ ❱ contact@dotcore-lab.net / private@dotcore-lab.net 📧 _(both works)_
 - __My Website__ ❱ https://dotcore-lab.net 🌍 _(a less inventive Portfolio may come later)_
 - __My GitHub__ ❱ https://github.com/dotCore-off ⚙️ _(currently trying to upload every single thing I've done on it)_
