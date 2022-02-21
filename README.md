@@ -15,7 +15,7 @@
 
 ## Cool stuff I've contributed to
 - [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite) **(Front-end Developer - 2022 / Now)**
-> **Description:** Introducing Cosmo, the only web-based application containing everything you'd need for your community!
+> **Description:** Introducing Cosmo, the only web-based application containing everything you'd need for your community
 > **I did:** resources management *(unique dashboard)*, server administration *(linux)*, web *(Laravel / MySQL)* and software *(Lua / Python)* dev
 - [🔒 Brilliant Lab](#) **(CEO and Software Engineer - 2021 / Now)**
 > **Description:** Unregistered company yet which focus is on bringing innovations to the tech world
@@ -25,6 +25,9 @@
 - [🎓 BUT Project](http://nureg.fr/#/) **(Full-stack Developer - 2021)**
 > **Description:** our main project to validate our Computer Science degree, made with three other friends  
 > **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
+- [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
+> **Description:** Made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
+> **I did:** DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
