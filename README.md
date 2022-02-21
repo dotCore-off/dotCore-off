@@ -14,12 +14,12 @@
 - **Software Development** (⭐️⭐️)
 > C++ / C# / Python / Lua
 ### [Frameworks]
-- **Symfony** (⭐️⭐️⭐️) 
-- **ReactJS** (⭐️⭐️⭐️) 
-- Laravel (⭐️⭐️⭐️) 
-- Bootstrap (⭐️⭐️⭐️)
-- Tailwind (⭐️⭐️)
-- Gatsby (⭐️)
+- **Laravel** (⭐️⭐️⭐️) 
+- **Styling frameworks** (⭐️⭐️⭐️) 
+> Bootstrap / Tailwind / Gatsby
+- **NodeJS frameworks** (⭐️⭐️) 
+> AngularJS / ReactJS / VueJS / PrismaJS
+- **Symfony** (⭐) 
 
 - **[Content Management Systems]** ❱ **XenForo** *(⭐️⭐️⭐️)* - **Invision PowerBoard** *(⭐️⭐️⭐️)* - **WordPress** *(⭐️⭐️)* - **WHMCS** *(⭐️)*
 - **[Game Engines]** ❱ **Unreal Engine 4** *(⭐️⭐️⭐️)* - **Cocos2d** *(⭐️⭐️)* - **Gamebryo** *(⭐️)* - **Unity** *(⭐️)*
