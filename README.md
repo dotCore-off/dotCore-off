@@ -14,15 +14,15 @@
 - **French is my native language** but I can easily understand and handle a fluent conversation in **English** too
 
 ## Cool stuff I've contributed to
-- [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite) **(Front-end Developer - 2022 / Now)**
+- [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite) **(Front-end Developer - January 2022 / Now)**
 > **Description:** Introducing Cosmo, the only web-based application containing everything you'd need for your community  
 > **I did:** front-end code refactoring, minor Model / Controller fixs, major theme enhancement
-- [🔒 Brilliant Lab](#) **(CEO and Software Engineer - 2021 / Now)**
+- [🔒 Brilliant Lab](#) **(CEO and Software Engineer - March 2021 / Now)**
 > **Description:** Unregistered company yet which focus is on bringing innovations to the tech world
-- [🎮 Waurum Community](https://waurum.net/) **(Founder and Developer - 2020 / Now)**
+- [🎮 Waurum Community](https://waurum.net/) **(Founder and Developer - June 2020 / Now)**
 > **Description:** Gaming focused community that builds innovative and new ways of playing, aspire to become a Game Studio one day  
 > **I did:** resources management *(unique dashboard)*, server administration *(linux)*, web *(Laravel / MySQL)* and software *(Lua / Python)* dev
-- [🎓 BUT Project](http://nureg.fr/#/) **(Full-stack Developer - 2021)**
+- [🎓 BUT Project](http://nureg.fr/#/) **(Full-stack Developer - Year 2021)**
 > **Description:** our main project to validate our Computer Science degree, made with three other friends  
 > **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
 - [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
