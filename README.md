@@ -89,4 +89,6 @@
 > *🎩: Self-taught / 🎓: School or University*  
 > *⭐️⭐️⭐️: Breaking keyboards at the speed of light / ⭐️⭐️: Not sweating when typing code / ⭐️: Watched a random Youtube tutorial*
 
+## Want to stalk me ?
+
 ##### Have a nice day, and keep in mind cats are better than dogs !
