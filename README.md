@@ -13,14 +13,14 @@
 - **Web Development** (⭐️⭐️⭐️)
 > HTML / CSS / JavaScript / TypeScript / SCSS / LESS
 - **Software Development** (⭐️⭐️)
-> C++ / C# / Python / Lua / Laux
+> C++ / C# / Python / Lua / Laux  
 ### [Frameworks]
 - **Laravel** (⭐️⭐️⭐️) 
 - **Styling frameworks** (⭐️⭐️⭐️) 
 > Bootstrap / Tailwind / Gatsby
 - **NodeJS frameworks** (⭐️⭐️) 
 > AngularJS / ReactJS / VueJS / PrismaJS
-- **Symfony** (⭐) 
+- **Symfony** (⭐)  
 ### [Content Management Systems]
 - **XenForo** (⭐️⭐️⭐️)
 > Deployment, advanced configuration, plugin development and LESS styling
@@ -29,7 +29,7 @@
 - **WordPress** (⭐️⭐️)
 > Deployment, configuration and enhanced styling
 - **WHMCS** (⭐️)
-> Deployment and configuration
+> Deployment and configuration  
 ### [Various Game Development Tools]
 - **Unreal Engine 4** (⭐️⭐️)
 - **Hammer / Hammer++** (⭐️⭐️)
@@ -37,7 +37,7 @@
 - **Gamebryo** (⭐️) 
 - **Unity** (⭐️)
 
-_⭐️⭐️⭐️: Breaking keyboards at the speed of light / ⭐️⭐️: Not sweating when typing code / ⭐️: Watched a random Youtube tutorial_
+> _⭐️⭐️⭐️: Breaking keyboards at the speed of light / ⭐️⭐️: Not sweating when typing code / ⭐️: Watched a random Youtube tutorial_
 
 ## Want to stalk me ?
 - __My Mails__ ❱ contact@dotcore-lab.net / private@dotcore-lab.net 📧 _(both works)_
