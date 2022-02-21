@@ -31,9 +31,15 @@
 > **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*  
 > **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it
 ### Private ones
+- [👑 gRoyale](#) **(Developer - Release in Spring 2022)**
+> **Description:** the best Battle Royale experience brought to [Garry's mod](https://gmod.facepunch.com/)
+> **Tech used:** Lua, Laux, MySQL
 - [🤖 Vroomy](#) **(Developer - Release in Summer 2022)**
 > **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features  
 > **Tech used:** DiscordJS, Prisma, PostgreSQL
+- [🔥 gMMO](https://github.com/Waurum-Studio/gmmo) **(Developer - Beta in Summer 2022)**
+> **Description:** forked from [Brick's Botched RPG](https://github.com/louiefox/botched-rpg), it'll be the first ever and complete MMO styled gamemode on [Garry's mod](https://gmod.facepunch.com/)
+> **Tech used:** Lua, MySQL
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
