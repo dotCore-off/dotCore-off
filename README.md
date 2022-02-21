@@ -32,7 +32,7 @@
 > **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it
 ### Private ones
 - [🤖 Vroomy](#) **(Developer - Release in Summer 2022)**
-> **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features
+> **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features  
 > **Tech used:** DiscordJS, Prisma, PostgreSQL
 
 ## The flex zone (my current skills)
