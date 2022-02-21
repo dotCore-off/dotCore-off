@@ -15,8 +15,8 @@
 
 ## Cool stuff I've contributed to
 - [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite) **(Front-end Developer - 2022 / Now)**
-> **Description:** Introducing Cosmo, the only web-based application containing everything you'd need for your community
-> **I did:** resources management *(unique dashboard)*, server administration *(linux)*, web *(Laravel / MySQL)* and software *(Lua / Python)* dev
+> **Description:** Introducing Cosmo, the only web-based application containing everything you'd need for your community  
+> **I did:** front-end code refactoring, minor Model / Controller fixs, major theme enhancement
 - [🔒 Brilliant Lab](#) **(CEO and Software Engineer - 2021 / Now)**
 > **Description:** Unregistered company yet which focus is on bringing innovations to the tech world
 - [🎮 Waurum Community](https://waurum.net/) **(Founder and Developer - 2020 / Now)**
@@ -26,8 +26,9 @@
 > **Description:** our main project to validate our Computer Science degree, made with three other friends  
 > **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
 - [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
-> **Description:** Made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
-> **I did:** DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*
+> **Description:** made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
+> **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*
+> **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
