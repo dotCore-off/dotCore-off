@@ -2,16 +2,16 @@
 ![My incredible useless Github stats](https://github-readme-stats.vercel.app/api?username=dotCore-off&count_private=true&theme=tokyonight)
 
 ## About me 
-- I'm a __French student of 19 years old__ 👨‍🎓
-- I have a __3rd Year Degree in Computer Science__ _(2019-2022)_ and a **Science Bachelor** _(2016-2019)_ 🎓
-- I'm naturally __curious__, __rigorous__ and __ambitious__ in relation to my projects 👤
-- French is my native language but I can easily understand and handle a fluent conversation in English too 💬
+- I'm a **French student of 19 years old** 👨‍🎓
+- I have a **3rd Year Degree in Computer Science** *(2019-2022)* and a **Science Bachelor** *(2016-2019)* 🎓
+- I'm naturally **curious**, **rigorous** and **ambitious** in relation to my projects 👤
+- **French is my native language** but I can easily understand and handle a fluent conversation in **English** too 💬
 
 ## The flex zone (my current skills)
-- **[Domains]** ❱ **Web Development** (⭐️⭐️⭐️ -> HTML / CSS / JS / TS / SCSS) / Software Development (⭐️⭐️ -> C++ / C# / Python / Lua)
-- **[Web Frameworks]** ❱ Symfony (⭐️⭐️⭐️) / ReactJS (⭐️⭐️⭐️) / Laravel (⭐️⭐️⭐️) / Bootstrap (⭐️⭐️⭐️) / Tailwind (⭐️⭐️) / Gatsby (⭐️)
-- **[Content Management Systems]** ❱ XenForo (⭐️⭐️⭐️) / Invision PowerBoard (⭐️⭐️⭐️) / WordPress (⭐️⭐️) / WHMCS (⭐️)
-- **[Game Engines]** ❱ Unreal Engine 4 (⭐️⭐️⭐️) / Cocos2d (⭐️⭐️) / Gamebryo (⭐️) / Unity (⭐️)
+- **[Domains]** ❱ **Web Development** *(⭐️⭐️⭐️ -> HTML / CSS / JS / TS / SCSS)* / **Software Development** *(⭐️⭐️ -> C++ / C# / Python / Lua)*
+- **[Web Frameworks]** ❱ **Symfony** *(⭐️⭐️⭐️)* / **ReactJS** *(⭐️⭐️⭐️)* / **Laravel** *(⭐️⭐️⭐️)* / **Bootstrap** *(⭐️⭐️⭐️)* / **Tailwind** *(⭐️⭐️)* / **Gatsby** *(⭐️)*
+- **[Content Management Systems]** ❱ **XenForo** *(⭐️⭐️⭐️)* / **Invision PowerBoard** *(⭐️⭐️⭐️)* / **WordPress** *(⭐️⭐️)* / **WHMCS** *(⭐️)*
+- **[Game Engines]** ❱ **Unreal Engine 4** *(⭐️⭐️⭐️)* / **Cocos2d** *(⭐️⭐️)* / **Gamebryo** *(⭐️)* / **Unity** *(⭐️)*
 
 _⭐️⭐️⭐️: Almost mastered / ⭐️⭐️: Well known / ⭐️: Bases_
 
