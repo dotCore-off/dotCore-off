@@ -1,6 +1,5 @@
 # Hey, my name's Alexis Badel aka dotCore 👋
-> Contact details at the bottom of this long text
-![My incredible useless Github stats](https://github-readme-stats.vercel.app/api?username=dotCore-off&count_private=true&theme=tokyonight)
+> ![My incredible useless Github stats](https://github-readme-stats.vercel.app/api?username=dotCore-off&count_private=true&theme=tokyonight)
 
 ## About me 
 - I'm a **French student of 19 years old** 👨‍🎓
