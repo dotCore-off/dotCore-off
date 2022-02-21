@@ -2,8 +2,8 @@
 > ![My incredible useless Github stats](https://github-readme-stats.vercel.app/api?username=dotCore-off&count_private=true&theme=tokyonight)  
 
 ## Skip table
-- [👤 My short bio]()
-- [⚙️ The projects I worked on]()
+- [👤 My short bio](#about-me)
+- [⚙️ The projects I worked on](#the-flex-zone)
 - [🔥 Hate selling myself but this is what I can do]()
 - [📨 Get in touch with me quickly]()
 
