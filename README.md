@@ -14,8 +14,8 @@
 - **French is my native language** but I can easily understand and handle a fluent conversation in **English** too
 
 ## Cool stuff I've contributed to
-- [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite) **(Front-end Developer - January 2022 / Now)**
-> **Description:** Introducing Cosmo, the only web-based application containing everything you'd need for your community  
+- [🧊 Cosmo](https://cosmo.dotcore-lab.net) **(Front-end Developer - January 2022 / Now)**
+> **Description:** Introducing [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite), the only web-based application containing everything you'd need for your community  
 > **I did:** front-end code refactoring, minor Model / Controller fixs, major theme enhancement
 - [🔒 Brilliant Lab](#) **(CEO and Software Engineer - March 2021 / Now)**
 > **Description:** Unregistered company yet which focus is on bringing innovations to the tech world
