@@ -15,8 +15,13 @@
 
 ## Cool stuff I've contributed to
 - [Waurum Community](https://waurum.net/) **(Founder and Developer - 2020 / Now)**
-> Description: Gaming focused community that builds innovative and new ways of playing, aspire to become a Game Studio one day  
-> Skills involved: Resources management, Web *(Laravel / MySQL)* and Software *(Lua / Laux / Python)* development
+> **Description:** Gaming focused community that builds innovative and new ways of playing, aspire to become a Game Studio one day  
+> **I did:** resources management *(unique dashboard)*, server administration *(linux)*, web *(Laravel / MySQL)* and software *(Lua / Python)* dev
+- [Brilliant Lab](#) **(CEO and Software Engineer - 2021 / Now)**
+> **Description:** Unregistered company yet which focus is on bringing innovations to the tech world
+- [BUT Project](http://nureg.fr/#/) **(Full-stack Developer - 2021)**
+> **Description:** our main project to validate our Computer Science degree, made with three other friends
+> **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
