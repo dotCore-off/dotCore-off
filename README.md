@@ -10,7 +10,7 @@
 ## The flex zone (my current skills)
 - __[Domains]__ ❱ Web Development (⭐️⭐️⭐️ -> HTML / CSS / JS / TS / SCSS) / Software Development (⭐️⭐️ -> C++ / C# / Python / Lua)
 - __[Web Frameworks]__ ❱ Symfony (⭐️⭐️⭐️) / ReactJS (⭐️⭐️⭐️) / Laravel (⭐️⭐️⭐️) / Bootstrap (⭐️⭐️⭐️) / Tailwind (⭐️⭐️) / Gatsby (⭐️)
-- __[CMS]__ ❱ XenForo (⭐️⭐️⭐️) / Invision PowerBoard (⭐️⭐️⭐️) / WordPress (⭐️⭐️) / WHMCS (⭐️)
+- __[Content Management Systems]__ ❱ XenForo (⭐️⭐️⭐️) / Invision PowerBoard (⭐️⭐️⭐️) / WordPress (⭐️⭐️) / WHMCS (⭐️)
 - __[Game Engines]__ ❱ Unreal Engine 4 (⭐️⭐️⭐️) / Cocos2d (⭐️⭐️) / Gamebryo (⭐️) / Unity (⭐️)
 
 _⭐️⭐️⭐️: Almost mastered / ⭐️⭐️: Well known / ⭐️: Bases_
