@@ -3,9 +3,9 @@
 
 ## Skip table
 - [👤 My short bio](#about-me)
-- [⚙️ The projects I worked on](cool-stuff-ive-contributed-to)
-- [🔥 Hate selling myself but this is what I can do](the-flex-zone-my-current-skills)
-- [📨 Get in touch with me quickly]()
+- [⚙️ The projects I worked on](#cool-stuff-ive-contributed-to)
+- [🔥 Hate selling myself but this is what I can do](#the-flex-zone-my-current-skills)
+- [📨 Get in touch with me quickly](#want-to-stalk-me-)
 
 ## About me 
 - I'm a **French student of 19 years old**
