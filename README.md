@@ -9,19 +9,20 @@
 - **French is my native language** but I can easily understand and handle a fluent conversation in **English** too 💬
 
 ## The flex zone (my current skills)
-### [Domains]
+### [Domains] *Self-taught*
 - **Web Development** (⭐️⭐️⭐️)
 > HTML / CSS / JavaScript / TypeScript / SCSS / LESS
 - **Software Development** (⭐️⭐️)
 > C++ / C# / Python / Lua / Laux  
-### [Frameworks]
+### [Frameworks] *Self-taught*
 - **Laravel** (⭐️⭐️⭐️) 
+> Full-stack product development, front-end through Blade templates & advanced back-end handlers
 - **Styling frameworks** (⭐️⭐️⭐️) 
 > Bootstrap / Tailwind / Gatsby
 - **NodeJS frameworks** (⭐️⭐️) 
 > AngularJS / ReactJS / VueJS / PrismaJS
 - **Symfony** (⭐)  
-### [Content Management Systems]
+### [Content Management Systems] *Self-taught*
 - **XenForo** (⭐️⭐️⭐️)
 > Deployment, advanced configuration, plugin development and LESS styling
 - **Invision PowerBoard** (⭐️⭐️⭐️)
@@ -30,7 +31,7 @@
 > Deployment, configuration and enhanced styling
 - **WHMCS** (⭐️)
 > Deployment and configuration  
-### [Various Game Development Tools]
+### [Various Game Development Tools] *Self-taught*
 - **Unreal Engine 4** (⭐️⭐️)
 > Game scripting, Blueprint or C++ usage and basic game design
 - **Hammer / Hammer++** *(Source Engine)* (⭐️⭐️)
@@ -40,6 +41,10 @@
 - **Gamebryo** (⭐️)
 - **Unity** (⭐️)
 > For both Gamebryo & Unity, basic scripting and engine knowledge
+### [Extras] *University*
+- **Networks** (⭐️⭐️⭐️) 
+- **Telecommunications** (⭐️⭐️)
+> Deep knowledgebase about these domains, [click on this to see what I learnt during my Computer Science degree](https://www.univ-st-etienne.fr/_contents/ametys%253Aplugins/odf/ametys%253Acontents/program-dut-reseaux-et-telecommunications-rt/_attribute/attachments%5B1%5D/attachment/FICHE-BUT_RT_HD.pdf?download=true&objectId=programContent://c1d7ecd9-88e9-4d4a-bc78-97ba3ad5a315)
 
 > _⭐️⭐️⭐️: Breaking keyboards at the speed of light / ⭐️⭐️: Not sweating when typing code / ⭐️: Watched a random Youtube tutorial_
 
