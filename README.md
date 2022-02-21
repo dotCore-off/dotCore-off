@@ -14,6 +14,7 @@
 - **French is my native language** but I can easily understand and handle a fluent conversation in **English** too
 
 ## Cool stuff I've contributed to
+### Public ones
 - [🧊 Cosmo](https://cosmo.dotcore-lab.net) **(Front-end Developer - January 2022 / Now)**
 > **Description:** Introducing [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite), the only web-based application containing everything you'd need for your community  
 > **I did:** front-end code refactoring, minor Model / Controller fixs, major theme enhancement
@@ -25,6 +26,11 @@
 - [🎓 BUT Project](http://nureg.fr/#/) **(Full-stack Developer - Year 2021)**
 > **Description:** our main project to validate our Computer Science degree, made with three other friends  
 > **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
+- [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
+> **Description:** made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
+> **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*  
+> **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it
+### Private ones
 - [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
 > **Description:** made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
 > **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*  
