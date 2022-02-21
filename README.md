@@ -14,11 +14,14 @@
 - **French is my native language** but I can easily understand and handle a fluent conversation in **English** too
 
 ## Cool stuff I've contributed to
+- [Waurum Community](https://waurum.net/) **(Founder and Developer - 2020 / Now)**
+> Description: Gaming focused community that builds innovative and new ways of playing, aspire to become a Game Studio one day
+> Skills involved: Resources management, Web *(Laravel / MySQL)* and Software *(Lua / Laux / Python)* development
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
 - Web Development (⭐️⭐️⭐️)
-> HTML / CSS / JavaScript / TypeScript / SCSS / LESS
+> HTML / CSS / JavaScript / PHP / TypeScript / SCSS / LESS
 - Software Development (⭐️⭐️)
 > C++ / C# / Python / Lua / Laux  
 ### [Frameworks] 🎩
