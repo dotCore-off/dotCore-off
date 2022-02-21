@@ -31,10 +31,9 @@
 > **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*  
 > **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it
 ### Private ones
-- [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
-> **Description:** made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
-> **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*  
-> **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it
+- [🤖 Vroomy](#) **(Developer - Release in Summer 2022)**
+> **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features
+> **Tech used:** DiscordJS, Prisma, PostgreSQL
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
