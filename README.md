@@ -1,5 +1,5 @@
 # Hey, my name's Alexis Badel aka dotCore 👋
-> ![My incredible useless Github stats](https://github-readme-stats.vercel.app/api?username=dotCore-off&count_private=true&theme=tokyonight)
+> ![My incredible useless Github stats](https://github-readme-stats.vercel.app/api?username=dotCore-off&count_private=true&theme=tokyonight)  
 > Contact details are available at the bottom of this README
 
 ## About me 
