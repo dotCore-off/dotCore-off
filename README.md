@@ -3,7 +3,7 @@
 
 ## Skip table
 - [👤 My short bio](#about-me)
-- [⚙️ The projects I worked on](#cool-stuff-i-ve)
+- [⚙️ The projects I worked on](cool-stuff-ive-contributed-to)
 - [🔥 Hate selling myself but this is what I can do](the-flex-zone-my-current-skills)
 - [📨 Get in touch with me quickly]()
 
