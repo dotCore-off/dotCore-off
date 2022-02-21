@@ -8,6 +8,7 @@
 - **French is my native language** but I can easily understand and handle a fluent conversation in **English** too 💬
 
 ## The flex zone (my current skills)
+### [Domains]
 - **[Domains]** ❱ **Web Development** *(⭐️⭐️⭐️ -> HTML / CSS / JS / TS / SCSS)* - **Software Development** *(⭐️⭐️ -> C++ / C# / Python / Lua)*
 - **[Frameworks]** ❱ **Symfony** *(⭐️⭐️⭐️)* - **ReactJS** *(⭐️⭐️⭐️)* - **Laravel** *(⭐️⭐️⭐️)* - **Bootstrap** *(⭐️⭐️⭐️)* - **Tailwind** *(⭐️⭐️)* - **Gatsby** *(⭐️)*
 - **[Content Management Systems]** ❱ **XenForo** *(⭐️⭐️⭐️)* - **Invision PowerBoard** *(⭐️⭐️⭐️)* - **WordPress** *(⭐️⭐️)* - **WHMCS** *(⭐️)*
