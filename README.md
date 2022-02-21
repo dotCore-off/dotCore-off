@@ -15,7 +15,7 @@
 
 ## Cool stuff I've contributed to
 - [Waurum Community](https://waurum.net/) **(Founder and Developer - 2020 / Now)**
-> Description: Gaming focused community that builds innovative and new ways of playing, aspire to become a Game Studio one day
+> Description: Gaming focused community that builds innovative and new ways of playing, aspire to become a Game Studio one day  
 > Skills involved: Resources management, Web *(Laravel / MySQL)* and Software *(Lua / Laux / Python)* development
 
 ## The flex zone (my current skills)
