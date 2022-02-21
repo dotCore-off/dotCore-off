@@ -77,11 +77,4 @@
 > *🎩: Self-taught / 🎓: School or University*
 > *⭐️⭐️⭐️: Breaking keyboards at the speed of light / ⭐️⭐️: Not sweating when typing code / ⭐️: Watched a random Youtube tutorial*
 
-## Want to stalk me ?
-- __My Mails__ ❱ contact@dotcore-lab.net / private@dotcore-lab.net 📧 _(both works)_
-- __My Website__ ❱ https://dotcore-lab.net 🌍 _(a less inventive Portfolio may come later)_
-- __My GitHub__ ❱ https://github.com/dotCore-off ⚙️ _(currently trying to upload every single thing I've done on it)_
-- __My LinkedIn__ ❱ https://www.linkedin.com/in/alexis-badel-795819205/ 📑
-- __My Trello__ ❱ https://trello.com/b/oUMeyBQu/dotcore-roadmap 📆 _(you'll be able to follow my current projects here)_
-
-##### Have a nice day !
+##### Have a nice day, and keep in mind cats are better than dogs !
