@@ -32,10 +32,14 @@
 > Deployment and configuration  
 ### [Various Game Development Tools]
 - **Unreal Engine 4** (⭐️⭐️)
-- **Hammer / Hammer++** (⭐️⭐️)
+> Game scripting, Blueprint or C++ usage and basic game design
+- **Hammer / Hammer++** *(Source Engine)* (⭐️⭐️)
+> Map's port and knowledge of existing tools to map 
 - **Cocos2d** (⭐️⭐️) 
-- **Gamebryo** (⭐️) 
+> Setting up a project, game scripting through TypeScript and basic game design
+- **Gamebryo** (⭐️)
 - **Unity** (⭐️)
+> For both Gamebryo & Unity, basic scripting and engine knowledge
 
 > _⭐️⭐️⭐️: Breaking keyboards at the speed of light / ⭐️⭐️: Not sweating when typing code / ⭐️: Watched a random Youtube tutorial_
 
