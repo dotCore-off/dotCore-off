@@ -3,8 +3,8 @@
 
 ## Skip table
 - [👤 My short bio](#about-me)
-- [⚙️ The projects I worked on](#the-flex-zone)
-- [🔥 Hate selling myself but this is what I can do]()
+- [⚙️ The projects I worked on](#cool-stuff-i-ve)
+- [🔥 Hate selling myself but this is what I can do](the-flex-zone-my-current-skills)
 - [📨 Get in touch with me quickly]()
 
 ## About me 
@@ -12,6 +12,8 @@
 - I have a **3rd Year Degree in Computer Science** *(2019-2022)* and a **Science Bachelor** *(2016-2019)*
 - I'm naturally **curious**, **rigorous** and **ambitious** in relation to my projects
 - **French is my native language** but I can easily understand and handle a fluent conversation in **English** too
+
+## Cool stuff I've contributed to
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
