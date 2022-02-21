@@ -74,7 +74,7 @@
 > Deep knowledgebase about these domains, [click on this to see what I learnt during my Computer Science degree](https://www.univ-st-etienne.fr/_contents/ametys%253Aplugins/odf/ametys%253Acontents/program-dut-reseaux-et-telecommunications-rt/_attribute/attachments%5B1%5D/attachment/FICHE-BUT_RT_HD.pdf?download=true&objectId=programContent://c1d7ecd9-88e9-4d4a-bc78-97ba3ad5a315)
 
 #### [Legend]
-> *🎩: Self-taught / 🎓: School or University*
+> *🎩: Self-taught / 🎓: School or University*  
 > *⭐️⭐️⭐️: Breaking keyboards at the speed of light / ⭐️⭐️: Not sweating when typing code / ⭐️: Watched a random Youtube tutorial*
 
 ##### Have a nice day, and keep in mind cats are better than dogs !
