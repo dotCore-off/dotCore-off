@@ -27,7 +27,7 @@
 > **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
 - [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
 > **Description:** made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
-> **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*
+> **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*  
 > **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it
 
 ## The flex zone (my current skills)
