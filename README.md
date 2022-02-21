@@ -10,40 +10,40 @@
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
-- **Web Development** (⭐️⭐️⭐️)
+- Web Development (⭐️⭐️⭐️)
 > HTML / CSS / JavaScript / TypeScript / SCSS / LESS
-- **Software Development** (⭐️⭐️)
+- Software Development (⭐️⭐️)
 > C++ / C# / Python / Lua / Laux  
 ### [Frameworks] 🎩
-- **Laravel** (⭐️⭐️⭐️) 
+- Laravel (⭐️⭐️⭐️) 
 > Full-stack product development, front-end through Blade templates & advanced back-end handlers
-- **Styling frameworks** (⭐️⭐️⭐️) 
+- Styling frameworks (⭐️⭐️⭐️) 
 > Bootstrap / Tailwind / Gatsby
-- **NodeJS frameworks** (⭐️⭐️) 
+- NodeJS frameworks (⭐️⭐️) 
 > AngularJS / ReactJS / VueJS / PrismaJS
-- **Symfony** (⭐)  
+- Symfony (⭐)  
 ### [Content Management Systems] 🎩
-- **XenForo** (⭐️⭐️⭐️)
+- XenForo (⭐️⭐️⭐️)
 > Deployment, advanced configuration, plugin development and LESS styling
-- **Invision PowerBoard** (⭐️⭐️⭐️)
+- Invision PowerBoard (⭐️⭐️⭐️)
 > Deployment, advanced configuration and basic plugin development
-- **WordPress** (⭐️⭐️)
+- WordPress (⭐️⭐️)
 > Deployment, configuration and enhanced styling
-- **WHMCS** (⭐️)
+- WHMCS (⭐️)
 > Deployment and configuration  
 ### [Various Game Development Tools] 🎩
-- **Unreal Engine 4** (⭐️⭐️)
+- Unreal Engine 4 (⭐️⭐️)
 > Game scripting, Blueprint or C++ usage and basic game design
-- **Hammer / Hammer++** *(Source Engine)* (⭐️⭐️)
+- Hammer / Hammer++ *(Source Engine)* (⭐️⭐️)
 > Map's port and knowledge of existing tools to map 
-- **Cocos2d** (⭐️⭐️) 
+- Cocos2d (⭐️⭐️) 
 > Setting up a project, game scripting through TypeScript and basic game design
-- **Gamebryo** (⭐️)
-- **Unity** (⭐️)
+- Gamebryo (⭐️)
+- Unity (⭐️)
 > For both Gamebryo & Unity, basic scripting and engine knowledge
 ### [Extras] 🎓
-- **Networks** (⭐️⭐️⭐️) 
-- **Telecommunications** (⭐️⭐️)
+- Networks (⭐️⭐️⭐️) 
+- Telecommunications (⭐️⭐️)
 > Deep knowledgebase about these domains, [click on this to see what I learnt during my Computer Science degree](https://www.univ-st-etienne.fr/_contents/ametys%253Aplugins/odf/ametys%253Acontents/program-dut-reseaux-et-telecommunications-rt/_attribute/attachments%5B1%5D/attachment/FICHE-BUT_RT_HD.pdf?download=true&objectId=programContent://c1d7ecd9-88e9-4d4a-bc78-97ba3ad5a315)
 
 #### [Legend]
