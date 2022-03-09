@@ -34,7 +34,7 @@
 - [👑 gRoyale](#) **(Developer - Release in Spring 2022)**
 > **Description:** the best Battle Royale experience brought to [Garry's mod](https://gmod.facepunch.com/)
 > **Tech used:** Lua, Laux, MySQL
-- [🤖 Vroomy](#) **(Developer - Release in Summer 2022)**
+- [🤖 Alternadisc](#) **(Developer - Release in Summer 2022)**
 > **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features  
 > **Tech used:** DiscordJS, Prisma, PostgreSQL
 - [🔥 gMMO](https://github.com/Waurum-Studio/gmmo) **(Developer - Beta in Summer 2022)**
