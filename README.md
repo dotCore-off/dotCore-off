@@ -46,6 +46,15 @@
 - [⚓️ Florensia Rebirth](#) **(Project Leader - No ETA)**
 > **Description:** an attempt at creating a new game inspired by the old MMO [Florensia](https://www.florensia-online.com/) developed by AHA  
 > **Tech used:** C#, Gamebryo Engine, Python
+- [😈 Wizard101R](#) **(Software Engineer - No ETA)**
+> **Description:** an attempt at creating a private server for the game [Wizard101@](https://www.wizard101.com/)
+> **Tech used:** C#, Wireshark, 010 Editor, SQL
+- [🚀 Jobber](#) **(Founder - No ETA)**
+> **Description:** making job's search as easy as meeting new people 
+> **Tech used:** Kotlin, JS, SQL
+- [📼 KulturOnline](#) **(Founder - No ETA)**
+> **Description:** spread the culture accross the world in a brand new way
+> **Tech used:** Kotlin, JS, SQL, proprietary tools
 
 ## The flex zone (my current skills)
 ### [Domains] 🎩
