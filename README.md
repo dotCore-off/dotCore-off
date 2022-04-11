@@ -8,7 +8,7 @@
 - [📨 Get in touch with me quickly](#want-to-stalk-me-)
 
 ## About me 
-- I'm a **French student of 19 years old**
+- I'm a **French student of 20 years old**
 - I have a **3rd Year Degree in Computer Science** *(2019-2022)* and a **Science Bachelor** *(2016-2019)*
 - I'm naturally **curious**, **rigorous** and **ambitious** in relation to my projects
 - **French is my native language** but I can easily understand and handle a fluent conversation in **English** too
