@@ -19,7 +19,7 @@
 - [🧊 Cosmo](https://cosmo.dotcore-lab.net) **(Front-end Developer - January 2022 / Now)**
 > **Description:** Introducing [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite), the only web-based application containing everything you'd need for your community  
 > **I did:** front-end code refactoring, minor Model / Controller fixs, major theme enhancement
-- [🔒 Brilliant Lab](#) **(CEO and Software Engineer - March 2021 / Now)**
+- [🔒 Brilliant Lab](#) **(CEO and Software Engineer - January 2023 / Now)**
 > **Description:** Unregistered company yet which focus is on bringing innovations to the tech world
 - [🎮 Waurum Community](https://waurum.net/) **(Founder and Developer - June 2020 / Now)**
 > **Description:** Gaming focused community that builds innovative and new ways of playing, aspire to become a Game Studio one day  
