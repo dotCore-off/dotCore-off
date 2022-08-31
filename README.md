@@ -15,6 +15,9 @@
 
 ## Cool stuff I've contributed to
 ### Public ones
+- [⭐️ Spectrum](#) **(Front-end developer - No ETA)**
+> **Description:** /////
+> **Tech used:** Laravel / Vue / Vite / TailwindCSS
 - [📰 Brilliant News](https://www.gmodstore.com/market/view/brilliant-news) **(Developer - Release in Autumn 2022)**
 > **Description:** The best system to stay in touch with your community at anytime!
 > **Tech used:** Lua, SQL, JSON
@@ -27,10 +30,11 @@
 ### Private ones
 - [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
 > **Description:** made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
-> **I did:** tons of DevOps policies and production deployment, plain PHP development and project management *(meetings + roadmap)*  
-> **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it
+> **I did:** tons of DevOps policies and production deployment, plain PHP development *(no framework)* and project management *(meetings + roadmap)*  
+> **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it  
+> **Tech used:** PHP / SCSS / SQL
 - [👑 gRoyale](#) **(Developer - Release in Autumn 2022)**
-> **Description:** the best Battle Royale experience brought to [Garry's mod](https://gmod.facepunch.com/)
+> **Description:** the best Battle Royale experience brought to [Garry's mod](https://gmod.facepunch.com/)  
 > **Tech used:** Lua, Laux, MySQL
 - [🤖 Alternadisc](#) **(Developer - Release in Winter 2022)**
 > **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features  
