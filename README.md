@@ -29,20 +29,20 @@
 > **Description:** our main project to validate our Computer Science degree, made with three other friends  
 > **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
 ### Private ones
+- [🔥 gMMO](https://github.com/Waurum-Studio/gmmo) **(Developer - Alpha in Spring 2023)**
+> **Description:** forked from [Brick's Botched RPG](https://github.com/louiefox/botched-rpg), it'll be the first ever and complete MMO styled gamemode on [Garry's mod](https://gmod.facepunch.com/)  
+> **Tech used:** Lua, MySQL
+- [🤖 Alternadisc](#) **(Developer - Release in Winter 2022)**
+> **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features  
+> **Tech used:** DiscordJS, Prisma, PostgreSQL
+- [👑 gRoyale](#) **(Developer - Release in Autumn 2022)**
+> **Description:** the best Battle Royale experience brought to [Garry's mod](https://gmod.facepunch.com/)  
+> **Tech used:** Lua, Laux, MySQL
 - [📊 Brilliant Panel](https://github.com/dotCore-off/brilliant-panel) **(Full-stack Developer - April to June 2021)**
 > **Description:** made for [Habitat & Métropole](https://www.habitat-metropole.fr/) during an internship  
 > **I did:** tons of DevOps policies and production deployment, plain PHP development *(no framework)* and project management *(meetings + roadmap)*  
 > **Features:** secured user & permission system, tons of management tools, configurable without code, remote update system to maintain it  
 > **Tech used:** PHP / SCSS / SQL
-- [👑 gRoyale](#) **(Developer - Release in Autumn 2022)**
-> **Description:** the best Battle Royale experience brought to [Garry's mod](https://gmod.facepunch.com/)  
-> **Tech used:** Lua, Laux, MySQL
-- [🤖 Alternadisc](#) **(Developer - Release in Winter 2022)**
-> **Description:** a polyvalent & open-source bot that will try to cover all existing Discord features  
-> **Tech used:** DiscordJS, Prisma, PostgreSQL
-- [🔥 gMMO](https://github.com/Waurum-Studio/gmmo) **(Developer - Alpha in Spring 2023)**
-> **Description:** forked from [Brick's Botched RPG](https://github.com/louiefox/botched-rpg), it'll be the first ever and complete MMO styled gamemode on [Garry's mod](https://gmod.facepunch.com/)  
-> **Tech used:** Lua, MySQL
 - [🌊 Project F](#) **(Developer & Game Concepter - No ETA)**
 > **Description:** a gacha themed mobile game that features unique mechanics & grind system  
 > **Tech used:** C#, Unity, Python, SQL
