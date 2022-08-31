@@ -16,7 +16,7 @@
 ## Cool stuff I've contributed to
 ### Public ones
 - [⭐️ Spectrum](#) **(Front-end developer - No ETA)**
-> **Description:** /////
+> **Description:** /////  
 > **Tech used:** Laravel / Vue / Vite / TailwindCSS
 - [📰 Brilliant News](https://www.gmodstore.com/market/view/brilliant-news) **(Developer - Release in Autumn 2022)**
 > **Description:** The best system to stay in touch with your community at anytime!
