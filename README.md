@@ -21,9 +21,10 @@
 - [📰 Brilliant News](https://www.gmodstore.com/market/view/brilliant-news) **(Developer - Release in Autumn 2022)**
 > **Description:** The best system to stay in touch with your community at anytime!
 > **Tech used:** Lua, SQL, JSON
-- [🧊 Cosmo](https://cosmo.dotcore-lab.net) **(Front-end Developer - January 2022 / July 2022)**
+- [🧊 Cosmo](https://cosmo.dotcore-lab.net) **(Front-end Developer - January 2022 / Now)**
 > **Description:** Introducing [🧊 Cosmo](https://www.gmodstore.com/market/view/cosmo-the-all-in-one-suite), the only web-based application containing everything you'd need for your community  
-> **I did:** front-end code refactoring, minor Model / Controller fixs, major theme enhancement
+> **I did:** front-end code refactoring, minor Model / Controller fixs, major Havart theme enhancement  
+> **Currently working on:** theme constency (Dxrk, Lara, Purity), dashboard revamp using TailwindCSS
 - [🎓 BUT Project](http://nureg.fr/#/) **(Full-stack Developer - Year 2021)**
 > **Description:** our main project to validate our Computer Science degree, made with three other friends  
 > **I did:** code refactoring, project management *(Trello)*, SCSS styling and back-end for dashboard
